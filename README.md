@@ -1,6 +1,4 @@
-# Smartphone-Remote-Control-with-Node.js-and-Socket.io
-Smartphone Remote Control with Node.js and Socket.io by  Nick Anastasov
-
+# PC control with Smartphone
 
 Running our Example
 
